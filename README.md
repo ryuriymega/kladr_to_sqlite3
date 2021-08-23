@@ -1,7 +1,7 @@
 # kladr_to_sqlite3
 simple script for converting KLADR.DBF to SQLite3
 
-used public libs from the https://github.com/nchizhov/inok-dbf
+used public libs from the https://github.com/ryuriymega/inok-dbf
 and connect required libs like this:
 require_once('src/Table.php');
 require_once('src/Records.php');
